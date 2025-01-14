@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "938834651536",
+    "firebase_url": "https://sara-bdfd4-default-rtdb.firebaseio.com",
+    "project_id": "sara-bdfd4",
+    "storage_bucket": "sara-bdfd4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938834651536:android:5eadac32f19814ebb5eb15",
+        "android_client_info": {
+          "package_name": "com.example.dashboard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvYBl075nHrlI_71rCj4DERPXFDtBsRm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938834651536:android:7b8545939864ca1eb5eb15",
+        "android_client_info": {
+          "package_name": "com.google_mlkit_example"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvYBl075nHrlI_71rCj4DERPXFDtBsRm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
